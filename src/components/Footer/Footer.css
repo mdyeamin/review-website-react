@@ -1,19 +1,28 @@
 .footer-area{
+    
     background: #282828;
-    padding: 50px 0;
+    padding: 20px 0;
     text-align: center;
 }
 .footer-icon{
     padding: 20px;
 }
 .footer-icon .fab{
-    padding: 15px;
+    padding: 8px;
     margin: 10px;
-    font-size: 24px;
-    background: #5c9738;
+    font-size: 32px;
+    
+    color:#fff;
+   
     border-radius: 50%;
 }
-
+.links{
+    color: #fff;
+    border-right: 1px solid gray;
+}
+.footer-icon .fab:hover{
+color: darkgrey;
+}
 .footer-links{
     color: blanchedalmond;
     display: flex;
