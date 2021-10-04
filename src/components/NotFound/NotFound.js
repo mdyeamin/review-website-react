@@ -1,11 +1,18 @@
 import React from 'react';
-
+import './NotFoumd.css'
+import img from '../../bannar/NotFound.png'
+import { NavLink } from 'react-router-dom';
 const NotFound = () => {
     return (
-        <div className="text-center text-danger">
-            <h1>4O4</h1>
-            <p>OPPS! This site not Available</p>
+        <div>
+            <div className="text-center text-danger">
+                <img src={img} alt="" />
+            </div>
+            <div className="text-center">
+                <NavLink className="go" to="/home">Go back</NavLink>
+            </div>
         </div>
+
     );
 };
 

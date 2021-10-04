@@ -15,28 +15,38 @@ function App() {
   return (
     <div className="">
       <Router>
-        <Header></Header>
+
         <Switch>
           <Route path="/home">
+            <Header></Header>
             <Home></Home>
+            <Footer></Footer>
           </Route>
           <Route exact path="/">
+            <Header></Header>
             <Home></Home>
+            <Footer></Footer>
           </Route>
           <Route path="/about">
+            <Header></Header>
             <About></About>
+            <Footer></Footer>
           </Route>
           <Route path="/services">
+            <Header></Header>
             <Services></Services>
+            <Footer></Footer>
           </Route>
           <Route path="/blog">
+            <Header></Header>
             <Blog></Blog>
+            <Footer></Footer>
           </Route>
           <Route path="*">
             <NotFound></NotFound>
           </Route>
         </Switch>
-        <Footer></Footer>
+
       </Router>
     </div>
   );
