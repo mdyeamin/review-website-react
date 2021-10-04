@@ -9,6 +9,7 @@ const NotFound = () => {
                 <img src={img} alt="" />
             </div>
             <div className="text-center">
+                <p className="text-danger ">opps! page not found</p>
                 <NavLink className="go" to="/home">Go back</NavLink>
             </div>
         </div>
