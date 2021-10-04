@@ -1,15 +1,17 @@
-# Getting Started with Create React App
+# Code Education website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Code Education](https://procodeeducation.netlify.app).
 
 ## Available Scripts
-
+* this is Code Education platform
+* Here you will be taught about complete web development
+* Be sure to check before going to any organization
 In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [Code Link](https://github.com/ProgrammingHeroWC4/review-website-mdyeamin) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.

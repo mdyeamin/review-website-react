@@ -12,7 +12,7 @@ const Home = () => {
     const [serviceItem, setServiceItem] = useState([])
     useEffect(() => {
         fetch('./homeDb.json')
-            .then(res => res.json())
+            .then(res => res.json())          
             .then(data => setServiceItem(data.slice(0, 4)))
     }, [])
     return (
