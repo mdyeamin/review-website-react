@@ -1,0 +1,27 @@
+.footer-area{
+    background: #282828;
+    padding: 50px 0;
+    text-align: center;
+}
+.footer-icon{
+    padding: 20px;
+}
+.footer-icon .fab{
+    padding: 15px;
+    margin: 10px;
+    font-size: 24px;
+    background: #5c9738;
+    border-radius: 50%;
+}
+
+.footer-links{
+    color: blanchedalmond;
+    display: flex;
+   justify-content: center;
+    text-align: center;
+}
+
+.footer-links h5{
+    margin: 0 20px;
+
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Basic HTML CSS ",
+        "dec": "Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.",
+        "price": 123,
+        "tamb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QMqLBbCpfPNJt3Dcn_bLMYOoW1UVcUoFYlQ5t1aNCbRbwUkUNcQNcJlegF3GygX6EWw&usqp=CAU",
+        "id": "34DFG00R"
+    },
+    {
+        "title": "Web Development",
+        "dec": "Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.",
+        "price": 89,
+        "tamb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFroxfHvi-E9Je7xbJp4YrMIKdQV3Apn2FlevwLL5UOnqsu5MIHGwWMMJLV2XElIzlyWQ&usqp=CAU",
+        "id": "34DFG00T"
+    },
+    {
+        "title": "CSS frameworks",
+        "dec": "This post casts a sweeping glance at the front-end development landscape and compares the front-runners among CSS frameworks. So if you’re tired of hand-coding CSS rules, dive in for some quick relief!",
+        "price": 149,
+        "tamb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5FEaTuhPO2Sz4QAVcmvg-NPXm_djZQ41QRA&usqp=CAU",
+        "id": "34DFE00T"
+    },
+    {
+        "title": "full stack web developer",
+        "dec": "Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.",
+        "price": 340,
+        "tamb": "https://www.systango.com/blog/wp-content/uploads/2020/06/05_Blog-2.jpg",
+        "id": "34DFG00N"
+    },
+    {
+        "title": "mern stack developer",
+        "dec": "MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular.js frontend framework is replaced with React.js. Other variants include MEVN (MongoDB, Express, Vue, Node), and really any frontend JavaScript framework can work.",
+        "price": 530,
+        "tamb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM4amFH4H1Up_nJ0PzzYKkBXIRQjkExCwX7w&usqp=CAU",
+        "id": "34DFG0ON"
+    },
+    {
+        "title": "mean stack developer",
+        "dec": "A MEAN stack developer is someone who has knowledge in some particular areas alone. MEAN stack development refers to the development process that falls within these particular set of technologies MongoDB, Expressjs, AngularJs, NodeJS. In simple words, MEAN stack developers are like JS-based application developers",
+        "price": 570,
+        "tamb": "https://lh5.googleusercontent.com/3HQRRJ7oKV2Pj0_62spr3K9t6umlpY5ykS-7BbIjdJLhIYJOI3sf66FfzqZYnKLcNJKumSVhnMlARvd74TBJqCx8BbbuFJYSJO3i2T9NkYOi9ffTZI15ZN8ZKp5MTd-8PDmw7asl",
+        "id": "37ZFG0ON"
+    },
+    {
+        "title": "react development environment",
+        "dec": "Follow the below steps to setup a React development environment and test it by downloading and running an example React application.",
+        "price": 99,
+        "tamb": "https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png",
+        "id": "37AFG0ON"
+    },
+    {
+        "title": "mongodb developer certification",
+        "dec": "When you become MongoDB Certified, you're achieving the same level of expertise that we require our own developers to attain! Register today and discover below how you can best prepare.",
+        "price": 139,
+        "tamb": "https://vullamapi.azurewebsites.net/categories/Mongo%20DB.jpg",
+        "id": "37GFG0ON"
+    }
+]

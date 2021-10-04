@@ -1,0 +1,13 @@
+.about-area {
+   margin: 100px auto;
+   width: 85%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   padding: 30px 20px;
+   border-radius: 5px;
+}
+.about-area img{
+width: 100%;
+}
+.about-area h2{
+    font-weight: 700;
+}
