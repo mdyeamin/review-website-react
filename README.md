@@ -1,4 +1,4 @@
-# Code Education website
+# Code Education
 
 This project was bootstrapped with [Code Education](https://procodeeducation.netlify.app).
 
