@@ -14,23 +14,29 @@ const Services = () => {
     return (
         <div>
             <Row className="justify-content-md-center align-items-center servises-area">
-                <Col sm={4}>
+                <Col md={1}>
+
+                </Col>
+                <Col md={4}>
                     <div>
                         <img src={serviceBannar} alt="" />
                     </div>
                 </Col>
 
-                <Col sm={8}>
+                <Col md={6}>
                     <div className="servises">
 
-                        <h2>Our services and courses</h2>
-                        <p>
-                            programming service means such services as the manufacturer or Service Provider generally make available without separate charge in connection with programming. For purposes of this Agreement, the terms “Programming” and “Programming Services” do not include Service Provider’s programs and hardware manufacturer programs and services that are available for a separate charge or which are offered under separate written software license agreements (i.e., any programs that are not listed in the Sales Order).
+                        <h2 className="code-educat">Our services and courses</h2>
+                        <p className="service-dec">
+                            programming service means such services as the manufacturer or Service Provider generally make available without separate charge in connection with programming. For purposes of this Agreement, the terms “Programming” and “Programming Services” do not include Service Provider’s
                         </p>
                     </div>
                 </Col>
-            </Row>
+                <Col md={1}>
 
+                </Col>
+            </Row>
+            <h2 className="all-services">All Services</h2>
             <div className="services-container">
                 {
                     servicesItem.map(service => <ServicesDetails

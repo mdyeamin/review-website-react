@@ -1,7 +1,5 @@
-.footer-area{
+/* .footer-area{
     
-    background: #282828;
-    padding: 20px 0;
     text-align: center;
 }
 .footer-icon{
@@ -11,9 +9,7 @@
     padding: 8px;
     margin: 10px;
     font-size: 32px;
-    
     color:#fff;
-   
     border-radius: 50%;
 }
 .links{
@@ -32,5 +28,32 @@ color: darkgrey;
 
 .footer-links h5{
     margin: 0 20px;
+} */
 
+.footer-area{
+    background: #282828;
+    padding: 20px 0;
+    /* text-align: center; */
+}
+.footer {
+    width: 85%;
+    margin: auto;
+}
+.footer-head{
+    color: #fff;
+}
+.span-color{
+    color: #E4A522;
+}
+.ico i{
+    font-size: 24px;
+    margin: 5px;
+    color: #1097F5;
+}
+
+.f-head{
+    margin-bottom: 30px;
+}
+hr{
+    color:rgb(82, 82, 82)
 }

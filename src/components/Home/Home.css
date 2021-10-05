@@ -49,6 +49,9 @@
     height: 70vh;
     text-align: center;
 }
+.code-educat{
+    font-weight: 700;
+}
 .header-fixed h5,p{
     color: #686B7F;
 }

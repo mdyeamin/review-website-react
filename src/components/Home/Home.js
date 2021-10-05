@@ -12,14 +12,14 @@ const Home = () => {
     const [serviceItem, setServiceItem] = useState([])
     useEffect(() => {
         fetch('./homeDb.json')
-            .then(res => res.json())          
+            .then(res => res.json())
             .then(data => setServiceItem(data.slice(0, 4)))
     }, [])
     return (
         <div>
             <div className="header-fixed">
                 <div className="d">
-                    <h1 className="text-white">Code Edication</h1>
+                    <h1 className="text-white code-educat">Code Education</h1>
                     <h5 className="mb-5">Deep expressions are made for coding </h5>
                     <>
                         <Button className="me-5" variant="primary">Enroll 753$</Button>{' '}
@@ -33,8 +33,8 @@ const Home = () => {
                 <Row>
                     <Col md={6}>
                         <div className="header-title">
-                            <h1><i class="bi bi-alt"></i>Code Educarion</h1>
-                            <h3>Your Life Easy & Productive learning process</h3>
+                            <h2 className="code-educat"><i className="bi bi-alt "></i>Code Educarion</h2>
+                            <h4>Your Life Easy & Productive learning process</h4>
                             <p className="p">
                                 Everyone’s talking about coding, but where do you start? This path will give you an introduction to the world of code and basic concepts. By the end, you’ll know whether Data Science, Computer Science or Web Development is right for you.
                             </p>

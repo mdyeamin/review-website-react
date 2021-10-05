@@ -1,3 +1,6 @@
+.about{
+    margin: 0 0 50px 0 ;
+}
 .about-area {
    margin: 100px auto;
    width: 85%;
@@ -10,4 +13,80 @@ width: 100%;
 }
 .about-area h2{
     font-weight: 700;
+}
+.about-icon{
+    width: 75%;
+    margin: 30px 0;
+    margin:auto;
+}
+.align{
+    align-items: center;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.123), 0 6px 20px 0 rgba(0, 0, 0, 0.109);
+    padding: 10px 7px;
+    border-radius: 8px;
+    margin: 0 10px;
+    
+}
+.align i{
+    background: #F2F2F2;
+    padding: 15px;
+    border-radius: 50%;
+    font-size: 22px;
+}
+.spa{
+    color:#028773 ;
+}
+.spar{
+    color: #FF9E9F;
+}
+.choose-area{
+margin-top: 110px; 
+/* text-align: center; */
+}
+.why{
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+.choose{
+    margin:auto;
+    width: 85%;
+}
+.choose-item{
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.027), 0 6px 20px 0 rgba(0, 0, 0, 0.027);
+    padding: 20px;
+    margin: 0 2px;
+    border-radius: 10px;
+}
+.choose-item h5{
+    margin: 10px 0;
+    }
+.choose-item i{
+    font-size: 40px;
+    background: #F2F2F2;
+   padding: 20px;
+   border-radius: 20%;
+}
+.teacher i{
+    color:#ff9e9f;
+}
+.membar i{
+    color:#028773 ;
+}
+.certificate i{
+    color:#E4A522 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+.choose-item:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 1s;
 }

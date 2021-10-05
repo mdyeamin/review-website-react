@@ -11,8 +11,10 @@ import procon9 from '../../bannar/procon9.png'
 const Blog = () => {
     return (
         <div>
-            <h2 className="text-center">Latest from our Blogs</h2>
-            <p className="text-center">Thoughts, Coding and JAMstack</p>
+            <div className="blog-title">
+                <h2 className="text-center">Latest from our Blogs</h2>
+                <p className="text-center">Thoughts, Coding and JAMstack</p>
+            </div>
             <div className="blog">
                 <CardGroup className="gap-5 m-5">
                     <Card>

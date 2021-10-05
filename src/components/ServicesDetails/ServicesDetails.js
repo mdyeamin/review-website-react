@@ -16,6 +16,7 @@ const ServicesDetails = (props) => {
                     </div>
                 </Card.Body>
             </Card>
+
         </div>
     );
 };

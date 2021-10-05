@@ -15,7 +15,6 @@ function App() {
   return (
     <div className="">
       <Router>
-
         <Switch>
           <Route path="/home">
             <Header></Header>
@@ -46,7 +45,6 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
-
       </Router>
     </div>
   );

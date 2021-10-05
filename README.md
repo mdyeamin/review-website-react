@@ -7,7 +7,6 @@ This project was bootstrapped with [Code Education](https://procodeeducation.net
 * Here you will be taught about complete web development
 * Be sure to check before going to any organization
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
